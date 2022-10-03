@@ -2,6 +2,8 @@
 
 Data Cleaning using SQL Quries
 
+Dataset: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+
 */ 
 
 SELECT *
